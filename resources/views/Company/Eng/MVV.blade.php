@@ -127,7 +127,7 @@
     <div class="container">
 
         <div class="row">
-
+          <h1>Mission, Vision, and Value</h1>
         </div>
         <!-- /.row -->
 

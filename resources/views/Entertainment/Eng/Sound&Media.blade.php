@@ -127,7 +127,7 @@
     <div class="container">
 
         <div class="row">
-
+          <h1>Sound and Media</h1>
         </div>
         <!-- /.row -->
 

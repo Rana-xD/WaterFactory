@@ -127,7 +127,7 @@
     <div class="container">
 
         <div class="row">
-
+          <h1>Social Contribute</h1>
         </div>
         <!-- /.row -->
 

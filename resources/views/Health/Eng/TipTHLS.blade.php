@@ -127,7 +127,7 @@
     <div class="container">
 
         <div class="row">
-
+          <h1>Tip to health lifestyle</h1>
         </div>
         <!-- /.row -->
 

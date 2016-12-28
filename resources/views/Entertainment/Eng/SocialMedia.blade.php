@@ -127,7 +127,7 @@
     <div class="container">
 
         <div class="row">
-
+          <h1>Social Media</h1>
         </div>
         <!-- /.row -->
 
